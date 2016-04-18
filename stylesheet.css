@@ -21,20 +21,18 @@ body {
 
 
 
-.content {
+.contact {
 	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
 	border-bottom: 2px solid;
 }
 
-.content h1 {
+.contact h1 {
 	font-size: 42px;
 	font-weight: bold;
 	letter-spacing: -2px;
 	margin-bottom: 0;
 }
-
-
 
 .content-summary {
 	margin: 5 0 16px 0;
