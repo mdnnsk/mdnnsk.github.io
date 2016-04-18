@@ -1,0 +1,48 @@
+body {
+	font: 16px Helvetica, Sans-Serif;
+	background: url(noise.png);
+}
+
+#pic { float: right; border-radius: 15px;
+	height: 275px;}
+
+
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
+#content-contact {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	font-size: 42px;
+	font-weight: bold;
+	letter-spacing: -2px;
+	border-bottom: 2px solid;
+}
+
+#content-summarycontent {
+	margin: 0 0 16px 0;
+	padding: 0 0 32px 0;
+
+	font-style: italic;
+	font-size: 20px;
+}
+
+#content-profheader {
+	font-size: 28px;
+}
+
+
+
+.date {
+	float: right;
+}
+
+h3 {border-bottom: 1px solid;
+}
+
+h4{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
